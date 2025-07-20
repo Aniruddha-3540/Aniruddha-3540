@@ -41,11 +41,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniruddha-gawali-52864a346" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
   <a href="mailto:aniruddhagawali573@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 

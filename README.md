@@ -40,7 +40,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniruddha-3540" target="_blank">
+  <a href="www.linkedin.com/in/aniruddha-gawali-52864a346" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   &nbsp;

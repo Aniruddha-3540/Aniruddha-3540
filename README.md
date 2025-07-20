@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning **Jetpack Compose & Firebase**
-- 🔭 I’m working on: `Water Intake Tracker App` & `Quiz App using Kotlin`
+- 🔭 I’m working on: `Water Intake Tracker App`
 - 💬 Ask me about **Android, Kotlin, Firebase, or Game Dev (Pygame)**
-- 📫 How to reach me: `aniruddhagawali@gmail.com`
+- 📫 How to reach me: `aniruddhagawali573@gmail.com`
 - ⚡ Fun fact: I can code a hacker-style voice assistant with an animated face 😎
 
 ---
@@ -28,12 +28,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniruddha-gawali&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha-gawali&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniruddha-3540&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha-3540&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha-gawali&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha-3540&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniruddha-gawali" target="_blank">
+  <a href="https://www.linkedin.com/in/aniruddha-3540" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   &nbsp;

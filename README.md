@@ -13,8 +13,7 @@
 - 🔭 I’m working on: `Water Intake Tracker App`
 - 💬 Ask me about **Android, Kotlin, Firebase, or Game Dev (Pygame)**
 - 📫 How to reach me: `aniruddhagawali573@gmail.com`
-- ⚡ Fun fact: I can code a hacker-style voice assistant with an animated face 😎
-
+  
 ---
 
 ### 🛠️ Languages and Tools
@@ -53,5 +52,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Aniruddha Gawali</strong>
+  Made with ❤️ by <strong>Aniruddha</strong>
 </p>
